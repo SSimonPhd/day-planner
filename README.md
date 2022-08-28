@@ -1,3 +1,3 @@
 # Day Planner
 
-Create a day planner app with moment.js
+Create a day planner app with javascript, bootstrap, jquery, and moment.js
