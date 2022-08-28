@@ -16,13 +16,13 @@ textarea{
 
 a {
   font-size: 20px;
-  color:#7cc4c4;
+  color:silver;
 }
 
 a:hover {
-  color: #7cc4c4;
+  color: silver;
   font-style: underline;
-  text-decoration-color: #ff6961;
+  text-decoration-color: white;
 }
 
 .jumbotron {
@@ -53,7 +53,7 @@ a:hover {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: silver;
   color: white;
 }
 
@@ -63,19 +63,19 @@ a:hover {
 }
 
 .future {
-  background-color: #656d65;
+  background-color: #323a3f;
   color: white;
 }
 
 .input-group :hover {
-  background-color: #7cc4c4;
+  background-color: silver;
 }
 
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #7cc4c4;
+  background-color: silver;
   color: white;
 }
 
