@@ -14,6 +14,17 @@ textarea{
   padding: 10px;
 }
 
+a {
+  font-size: 20px;
+  color:#7cc4c4;
+}
+
+a:hover {
+  color: #7cc4c4;
+  font-style: underline;
+  text-decoration-color: #ff6961;
+}
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -56,11 +67,15 @@ textarea{
   color: white;
 }
 
+.input-group :hover {
+  background-color: #7cc4c4;
+}
+
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #c34a50;
+  background-color: #7cc4c4;
   color: white;
 }
 
