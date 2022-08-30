@@ -53,7 +53,7 @@ a:hover {
 }
 
 .past {
-  background-color: silver;
+  background-color: #000000;
   color: white;
 }
 
@@ -72,7 +72,7 @@ a:hover {
 }
 
 .saveBtn {
-  border-left: 1px solid black;
+  border-left: 1px solid #000000;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: silver;
