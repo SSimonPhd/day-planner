@@ -13,7 +13,7 @@ Build a day planner web app using javascript, bootstrap, jquery, and moment.js
 7. Wrote test loop and event listener
 8. Tested & debugged app with DevTools
 9. Branded and styled app interface
-10. Updated time block colors to match branding (past: black, present: red, future: slate, hover: silver)
+10. Updated time block color-coding to match branding (past: black, present: red, future: slate, hover: silver)
 11. Added comments where appropriate
 12. Wrote README and added screenshot and links
 
