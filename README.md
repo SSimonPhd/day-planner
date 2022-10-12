@@ -1,6 +1,4 @@
-# 05 Day Planner
-
-Module 5 challenge assignment:
+# Day Planner
 
 Build a day planner web app using javascript, bootstrap, jquery, and moment.js
 
