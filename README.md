@@ -23,4 +23,4 @@ Build a day planner web app using javascript, bootstrap, jquery, and moment.js
 https://ssimonphd.github.io/day-planner/
 
 - URL to GitHub repo:
-https://github.com/SSimonPhd/day-planner
+https://github.com/SSimonPhd/day-planner 
